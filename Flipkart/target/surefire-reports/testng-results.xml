@@ -11,12 +11,12 @@
       <![CDATA[SearchProductTest Successfuly running]]>
     </line>
   </reporter-output>
-  <suite name="com.flipkart.Search.SearchProductTest" duration-ms="49" started-at="2020-08-19T23:10:35 IST" finished-at="2020-08-19T23:10:35 IST">
+  <suite name="com.flipkart.Search.SearchProductTest" duration-ms="73" started-at="2020-08-21T01:05:08 IST" finished-at="2020-08-21T01:05:09 IST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="49" started-at="2020-08-19T23:10:35 IST" finished-at="2020-08-19T23:10:35 IST">
+    <test name="Command line test" duration-ms="73" started-at="2020-08-21T01:05:08 IST" finished-at="2020-08-21T01:05:09 IST">
       <class name="com.flipkart.Search.SearchProductTest">
-        <test-method status="PASS" signature="run()[pri:0, instance:com.flipkart.Search.SearchProductTest@7cd62f43]" name="run" duration-ms="6" started-at="2020-08-19T23:10:35 IST" finished-at="2020-08-19T23:10:35 IST">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.flipkart.Search.SearchProductTest@39c0f4a]" name="run" duration-ms="10" started-at="2020-08-21T01:05:09 IST" finished-at="2020-08-21T01:05:09 IST">
           <reporter-output>
             <line>
               <![CDATA[SearchProductTest Successfuly running]]>
