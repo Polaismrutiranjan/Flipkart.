@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class SearchProductTest {
 	
 	/**
-	 * 1st Github project
+	 * 1st Github project.
 	 */
 	
 	@Test
