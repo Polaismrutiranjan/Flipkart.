@@ -16,7 +16,7 @@ public class SearchProductTest {
 		Reporter.log("SearchProductTest Successfuly running",true);
 		
 		Reporter.log("SearchProductTest Successfuly running",true);
-		Reporter.log("Wel come back to jenkins",true);
+		Reporter.log("jenkins can see me done",true);
 	}
 
 }
